@@ -1,5 +1,4 @@
 # Data_Science_HW1
-Using Keras, KNN, Xgboost and RGF to predict weather condition.
 
 <div id="top"></div>
 
@@ -19,7 +18,7 @@ Using Keras, KNN, Xgboost and RGF to predict weather condition.
 - [Introduction Of Project](#introduction-of-project)
   - [Features](#features)
   - [Develop With](#develop-with)
-- [set up environmnet](#set-up-environmnet)
+- [Set up environmnet](#set-up-environmnet)
 - [License](#license)
 - [Developer Contact](#developer-contact)
 
@@ -44,7 +43,7 @@ Using Keras, KNN, Xgboost and RGF to predict weather condition and mix those res
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## set up environmnet
+## Set up environmnet
 
 <details open>
 <summary>Install</summary>
